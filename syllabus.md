@@ -16,6 +16,10 @@ No school on July 4 due to holiday
 
 1. Students must have an email acccount *that they can access during class*. This is necessary to create an account for GitHub, the world's lagest online developer community. Their GitHub account will be used to log in to Codecademy, Code Combat, and other class learning resources.
 
+## Laptops
+
+Students may use their own laptops. All tools and curriculum are web-based, so only an internet broswer is needed (i.e. Firefox, Chrome, Safari)
+
 ## Absences or Tardiness
 
 In this course, software development, and life in general, showing up is crucial to your success. If you miss five or more classes,  you may be dropped from the course. If you are going to be late or must miss class, it is the student or parent's responsibility to email the instructor and explain your situation.
