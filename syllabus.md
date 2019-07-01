@@ -8,7 +8,7 @@ Email: inicholson@vcoe.org
 
 ## Course Information
 
-July 1-26, 2019 from 9a - 12p in Classroom 2 at Career Education Center campus at Camarillo Airport: 465 Horizon Circle, Camarillo CA 93010
+July 1-26, 2019 from 1p - 4p in Classroom 2 at Career Education Center campus at Camarillo Airport: 465 Horizon Circle, Camarillo CA 93010
 
 No school on July 4 due to holiday
 
